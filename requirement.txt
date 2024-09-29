@@ -1,0 +1,5 @@
+transformers
+quanto
+torch
+accelerate
+streamlit
